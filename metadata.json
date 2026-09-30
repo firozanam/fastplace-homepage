@@ -1,0 +1,6 @@
+{
+  "name": "Fastplace — Enterprise Full-Stack Python & React Web Framework",
+  "description": "An opinionated, full-stack, AI-native web framework built on Python and React. Modular monolith by default with a server-driven SPA bridge, native AI agents, and enterprise scalability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
